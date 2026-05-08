@@ -1,4 +1,4 @@
-![Aquarium SMP Logo](../Aquarium_SMP_final.png)
+<img src="../Aquarium_SMP_final.png" alt="Aquarium SMP Logo" width="220" />
 
 # Aquarium SMP
 
