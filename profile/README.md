@@ -1,3 +1,5 @@
+![Aquarium SMP Logo](../Aquarium_SMP_final.png)
+
 # Aquarium SMP
 
 ## Sobre el servidor
@@ -12,3 +14,6 @@
 - Desarrollar conceptos creativos y potenciar ideas nuevas dentro del juego.
 - Pasarla bien y disfrutar el proceso como comunidad.
 
+## Discord
+
+- Unete a la comunidad: https://discord.gg/Ydr79dKquM
